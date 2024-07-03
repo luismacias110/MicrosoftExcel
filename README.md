@@ -13,4 +13,4 @@ Transformar y visualizar los datos que permita a los propietarios de la tienda p
 
 2. Bajo rendimiento en categoría de electrónica
    -Esta categoría experimento una disminución constante en las ventas al compararla con otras como ropa
-![Captura de pantalla 2023-09-07 212219](https://github.com/luismacias110/MicrosoftExcel/assets/174209135/b66d24b3-07dc-43eb-9829-5b5d92bbb822)
+   ![Captura de pantalla 2023-10-14 140717](https://github.com/luismacias110/MicrosoftExcel/assets/174209135/4003e962-5b7e-48f8-ba9b-4154f827a64a)
